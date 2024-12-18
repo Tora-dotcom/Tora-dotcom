@@ -2,8 +2,9 @@
  
 
 # 💫 About Me:
-🎯 I’m currently working on:<br>Developing a responsive portfolio website with React and improving my skills in backend development using Node.js.<br><br>
-🌱 I’m currently learning:<br>C# (for backend systems)<br>React Native for cross-platform mobile app development.<br>SQLite and optimization techniques for database performance.<br><br>💬 Ask me about:<br>My programming journey and the skills I’m developing along the way.<br>
+🎯 I’m currently working on:<br>Developing a responsive portfolio website with React Native. <br><br>
+🌱 I’m currently learning:<br>C# <br>React Native for cross-platform mobile app development.<br>
+💬 Ask me about:<br>Ask me about anything you like.<br>
 
 
 # 💻 Tech Stack:
