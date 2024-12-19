@@ -2,8 +2,8 @@
  
 
 # 💫 About Me:
-🎯 I’m currently working on:<br>Developing a responsive portfolio website with React Native. <br><br>
-🌱 I’m currently learning:<br>C# <br>React Native for cross-platform mobile app development.<br>
+🎯 I’m currently working on: Developing a responsive portfolio website with React Native. <br><br>
+🌱 I’m currently learning: <br> C# <br>React Native for cross-platform mobile app development.<br>
 💬 Ask me about:<br>Ask me about anything you like.<br>
 
 
